@@ -1,0 +1,176 @@
+# ninja log v5
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/libflutter_linux_gtk.so	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_engine.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_value.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_view.h	60fd7799739ecf9f
+0	11263	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	60fd7799739ecf9f
+0	11263	0	flutter/_phony_	60fd7799739ecf9f
+11265	12711	1714885696456010881	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/renderer.cpp.o	f868244e68a4d53a
+11264	12730	1714885696472010882	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive_text/rive_text.cpp.o	c87e0c2901bc8133
+11266	12915	1714885696636010886	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/text/font_hb.cpp.o	b3e6605aca7f2add
+11263	12950	1714885696688010888	CMakeFiles/vsc.dir/main.cc.o	2f3c97750a1a274
+11263	13006	1714885696744010889	plugins/gtk/CMakeFiles/gtk_plugin.dir/gtk_plugin.cc.o	3811e5c51cb7ffd3
+11263	13013	1714885696752010890	CMakeFiles/vsc.dir/flutter/generated_plugin_registrant.cc.o	16a8f55f60ab4992
+11263	13039	1714885696772010890	plugins/file_selector_linux/CMakeFiles/file_selector_linux_plugin.dir/file_selector_plugin.cc.o	c5d90a9520f95113
+11263	13169	1714885696904010894	CMakeFiles/vsc.dir/my_application.cc.o	9e107b836e725ac9
+12712	13309	1714885697052010898	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/text/line_breaker.cpp.o	8b756a81a736a277
+13040	13320	1714885697064010898	plugins/file_selector_linux/libfile_selector_linux_plugin.so	477770acc4af488c
+13006	13324	1714885697068010899	plugins/gtk/libgtk_plugin.so	ff7f4e8a42c3755d
+12951	13442	1714885697184010902	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/audio/audio_sound.cpp.o	97ca9fff601f8371
+13013	13473	1714885697216010903	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/audio/audio_reader.cpp.o	598ffca15bddf788
+12916	13503	1714885697244010904	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/audio/audio_source.cpp.o	4f1c80f2d0bdca2d
+11264	13563	1714885697304010905	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/math/mat2d.cpp.o	17b011119e85a1b6
+11264	13728	1714885697468010910	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/math/raw_path.cpp.o	677babb98aee67ff
+13320	13951	1714885697692010916	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-blob.cc.o	cb2bec3fd609dcb4
+13324	14011	1714885697752010918	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-buffer-serialize.cc.o	24025dbe207ed219
+13503	14145	1714885697888010922	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-common.cc.o	6ee2ad997511517
+13442	14253	1714885697992010925	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-buffer-verify.cc.o	395b62c1e771877d
+13563	14370	1714885698112010928	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-draw.cc.o	5b3ac0cd8dd51697
+13309	14554	1714885698292010933	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-aat-map.cc.o	93bb14700d1d42fb
+13473	14647	1714885698384010936	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-buffer.cc.o	da97a8543e6f459a
+14145	14888	1714885698632010943	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-number.cc.o	696daf40ba8fefff
+14011	15150	1714885698888010950	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-map.cc.o	9cdd0608b387d90f
+13951	16638	1714885700368010992	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-font.cc.o	8ca0826cc8c64d04
+14253	16781	1714885700512010996	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-cff1-table.cc.o	486e489c0028b9e6
+13728	16797	1714885700528010996	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-face.cc.o	8bfe22bf316f820
+12730	17365	1714885701076011012	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/rive-cpp/src/audio/audio_engine.cpp.o	ab5e0cf54daa3157
+14370	17582	1714885701308011018	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-cff2-table.cc.o	f26d5c2d3d196fe9
+16797	17831	1714885701568011026	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-meta.cc.o	179fe441d9dce5e5
+14554	18379	1714885702108011041	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-color.cc.o	8121c53d3d2a01aa
+16638	18490	1714885702224011044	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-map.cc.o	5aca9abc483dae5e
+17582	19017	1714885702752011059	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-name.cc.o	2ad81034b612db91
+18379	19315	1714885703056011068	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-default.cc.o	6ebf4278620d9b02
+16781	19690	1714885703420011078	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-math.cc.o	c3d27459f8c84ac5
+18490	19885	1714885703608011083	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-hangul.cc.o	669bcf546e369570
+17366	19995	1714885703724011086	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-metrics.cc.o	c52e942c08836cc8
+13170	20034	1714885703744011087	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-aat-layout.cc.o	78054b2f40db66
+19315	20338	1714885704076011096	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-indic-table.cc.o	314b64d61184fdfb
+19690	20818	1714885704528011109	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-indic.cc.o	f9650858fa50fe03
+19017	20842	1714885704564011110	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-hebrew.cc.o	8b749fbc1980e4a3
+19886	21135	1714885704868011119	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-khmer.cc.o	38b88f22021da918
+14889	21159	1714885704816011117	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-font.cc.o	1b3ec9fb9dfaf64a
+20034	21298	1714885705032011123	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-syllabic.cc.o	83a6a4860e96749e
+20338	21584	1714885705324011132	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-thai.cc.o	67b9f0168920d831
+19995	21617	1714885705352011132	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-myanmar.cc.o	6b103f126bd07bc3
+20818	22054	1714885705788011145	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-use.cc.o	1ed1d0a3e280eaad
+20843	22223	1714885705932011149	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-vowel-constraints.cc.o	5e073821a5f6490b
+14647	22356	1714885706076011153	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-face.cc.o	d2f3f4b5e1c20ff
+21584	22407	1714885706148011155	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-tag.cc.o	ad96be181d711347
+21159	22627	1714885706364011161	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shape-normalize.cc.o	1f13d65a0b882884
+22407	22906	1714885706648011169	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-shaper.cc.o	65bfd42b8f8dd660
+22054	23035	1714885706772011172	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-set.cc.o	fa1c81b9cf83a764
+22223	23121	1714885706860011175	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-shape-plan.cc.o	b97ab4009cec0cbb
+21298	23210	1714885706944011177	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shape.cc.o	38d25b6fd8135aac
+22356	23234	1714885706972011178	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-shape.cc.o	12b57ccd36ee85c5
+17831	23927	1714885707640011197	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shaper-arabic.cc.o	f1e71ded05e79f03
+21617	24500	1714885708200011213	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-var.cc.o	b3e083893a6a8e76
+23927	24515	1714885708228011214	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-paint-extents.cc.o	26667b25589ba713
+23210	24799	1714885708536011222	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-input.cc.o	198417bdb598ddc3
+22906	24882	1714885708604011224	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-cff-common.cc.o	e155ff153d941476
+15150	25118	1714885708804011230	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-layout.cc.o	f4a040c707a1d034
+24799	25568	1714885709308011244	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ucd.cc.o	959b19ce8c5a6f32
+24882	25605	1714885709348011245	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-unicode.cc.o	66b4b890ad9a7a7d
+21135	25966	1714885709692011255	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-ot-shape-fallback.cc.o	68efc36aa978b5a2
+25605	26068	1714885709808011258	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/SheenBidi/Source/SheenBidi.c.o	c864819b95065b1f
+23121	26479	1714885710204011269	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-cff2.cc.o	166bde39283cb895
+25568	26577	1714885710316011273	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-paint.cc.o	7f29960b372a91ca
+26068	26991	1714885710708011284	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-outline.cc.o	1a0b2549b8c46452
+23035	27087	1714885710812011287	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-cff1.cc.o	58d9d81b4e06aa3c
+26991	27099	1714885710840011287	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGEnums.cpp.o	2601edb797574365
+26479	27211	1714885710952011290	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-instancer-solver.cc.o	6091f4d09afb71fd
+25966	27311	1714885711048011293	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/common.cpp.o	29d96eaa3a476bde
+27311	27444	1714885711184011297	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGValue.cpp.o	11adf519eefd69c5
+27444	27475	1714885711216011298	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGNodePrint.cpp.o	70e41bb9c6b5ce95
+27099	27551	1714885711268011299	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGConfig.cpp.o	cb9fab52beee1b51
+22627	27564	1714885711288011300	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-static.cc.o	52b6d7f3fb1e4e10
+27087	27603	1714885711344011302	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/Utils.cpp.o	9866b209057d51bc
+27211	27855	1714885711584011308	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGLayout.cpp.o	a508625b9bcb3ca5
+27551	27913	1714885711656011310	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/log.cpp.o	1957cbafb72db1d1
+27603	28184	1714885711924011318	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGStyle.cpp.o	435eed07816d473
+27914	28294	1714885712036011321	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/event/event.cpp.o	e0a105f8399ddb8f
+27564	28387	1714885712124011324	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/rive_plugin.cpp.o	256f358df168a2ad
+27475	28401	1714885712140011324	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/YGNode.cpp.o	db4a49cbc7eed352
+26577	28578	1714885712312011329	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-face-builder.cc.o	93d3ed331fea41f4
+24500	28624	1714885712356011330	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-repacker.cc.o	a69ff571b02efa49
+28184	28740	1714885712484011334	plugins/url_launcher_linux/CMakeFiles/url_launcher_linux_plugin.dir/url_launcher_plugin.cc.o	85e9df41a037f857
+28740	28821	1714885712564011336	plugins/url_launcher_linux/liburl_launcher_linux_plugin.so	2e3873472a072c4c
+27856	28885	1714885712624011338	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/yoga/yoga/Yoga.cpp.o	ff02986bef78b78c
+25118	29008	1714885712736011341	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/graph/gsubgpos-context.cc.o	9bfb19e8fde7fda
+23234	31565	1714885715260011412	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset-plan.cc.o	d532f0400143dcc5
+24515	35466	1714885719128011521	plugins/rive_common/CMakeFiles/rive_common_plugin.dir/__/macos/harfbuzz/src/hb-subset.cc.o	2008954f11c4b159
+35466	36862	1714885720596011563	plugins/rive_common/librive_common_plugin.so	4c95c332b02ab39f
+36862	37100	1714885720844011570	intermediates_do_not_run/vsc	ecb9d51612c58e90
+37100	37241	0	CMakeFiles/install.util	39478ebc10e07d61
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/libflutter_linux_gtk.so	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_engine.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_value.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_view.h	60fd7799739ecf9f
+7	2453	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	60fd7799739ecf9f
+7	2453	0	flutter/_phony_	60fd7799739ecf9f
+2453	2638	1714887633996065576	plugins/gtk/libgtk_plugin.so	17520f7b6540ce18
+2453	2650	1714887634004065576	plugins/file_selector_linux/libfile_selector_linux_plugin.so	dcc0e4e156235a39
+2454	2660	1714887634016065576	plugins/url_launcher_linux/liburl_launcher_linux_plugin.so	fa681f4c170aa338
+2453	2871	1714887634228065582	CMakeFiles/vsc.dir/flutter/generated_plugin_registrant.cc.o	16a8f55f60ab4992
+2453	2907	1714887634264065583	CMakeFiles/vsc.dir/my_application.cc.o	9e107b836e725ac9
+2454	4098	1714887635448065617	plugins/rive_common/librive_common_plugin.so	ab944c7294db06b2
+4098	4288	1714887635644065622	intermediates_do_not_run/vsc	39375f231ec8bedf
+4288	4433	0	CMakeFiles/install.util	39478ebc10e07d61
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/libflutter_linux_gtk.so	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_engine.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_value.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/fl_view.h	60fd7799739ecf9f
+32	4733	0	/home/louay/Desktop/vsc - Copy/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	60fd7799739ecf9f
+32	4733	0	flutter/_phony_	60fd7799739ecf9f
+4734	6584	1717347618976015539	CMakeFiles/vsc.dir/flutter/generated_plugin_registrant.cc.o	8dad51efbf4ce9bd
+4734	6606	1717347618996015539	CMakeFiles/vsc.dir/my_application.cc.o	507a9574193e0179
+4733	6606	1717347618996015539	CMakeFiles/vsc.dir/main.cc.o	1943d4fb0b202b80
+6606	6978	1717347619372015550	intermediates_do_not_run/vsc	cc4ffddf71ad4683
+6978	7064	0	CMakeFiles/install.util	39478ebc10e07d61
