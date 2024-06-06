@@ -1,19 +1,21 @@
-# vsc
+Introduction
 
-A new Flutter project.
+Welcome to the Attendance App! This mobile application is built using Flutter and integrates a camera for face recognition to mark attendance. It is designed to provide a seamless and efficient way of tracking attendance using advanced facial recognition technology.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+    Face Recognition: Utilizes the device's camera to recognize faces and mark attendance.
+    User Authentication: Secure login for users to ensure data privacy.
+    Attendance History: View and manage past attendance records.
+    Real-time Notifications: Get notified about attendance status in real-time.
+    User Management: Admin capabilities to add, edit, or remove users.
 
-A few resources to get you started if this is your first Flutter project:
+Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Flutter SDK
+    Dart 2.12 or later
+    Compatible with Android and iOS devices
+    Camera permissions    
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# vsc" 
-# attendanceapplication
-# Flutter-AttendanceApplication
+** Install dependencies:     
+flutter pub get
